@@ -16,7 +16,7 @@ A secure and user-friendly Streamlit application that converts `.docx` files  PD
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ShiyaMer/PDFConverter.git
+git clone https://github.com/UjjvalV/PDF_Converter.git
 cd PDFConverter
 ```
 
@@ -74,16 +74,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👤 Author
 
-**Shiya Mer**
-- Email: shiyamer3@gmail.com
+**Ujjval Vashisht**
+- Email: uvashisht2002@gmail.com
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
 
-## 📢 Deployment
-
-Access the live application: [[Deployed Application Link](#)](https://pdfconverter-shiyamer.streamlit.app/)
 
 
